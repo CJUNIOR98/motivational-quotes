@@ -92,6 +92,7 @@ q{
   cursor: pointer;
   font-size: 1.8rem;
   font-family: inherit;
+  font-weight: 700;
   transition: all .4s;
 }
 
