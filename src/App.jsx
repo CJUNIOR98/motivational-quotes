@@ -4,6 +4,7 @@ import './App.css'
 
 
 
+
 function App({color}) {
 
   document.body.style = `background: ${color}`;
