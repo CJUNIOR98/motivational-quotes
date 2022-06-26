@@ -39,7 +39,7 @@ const QuoteBox = () => {
     document.body.style = `background: ${color}`;
 
     return (
-        <div className='card'>
+        <div className='card' style={{background: color}}>
             <figure className="card_imgBox">
                 <img src={image} className="card_img" style={{background: color}} />
             </figure>
